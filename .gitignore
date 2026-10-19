@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+.env
+
+ops.db
+ops.db-shm
+ops.db-wal
+
+*.log
+.DS_Store
